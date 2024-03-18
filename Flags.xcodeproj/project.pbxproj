@@ -11,6 +11,7 @@
 		2EE736082BA6F7BD00475768 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EE736072BA6F7BD00475768 /* ContentView.swift */; };
 		2EE7360A2BA6F7BE00475768 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EE736092BA6F7BE00475768 /* Assets.xcassets */; };
 		2EE7360D2BA6F7BE00475768 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EE7360C2BA6F7BE00475768 /* Preview Assets.xcassets */; };
+		2EE736142BA6F9F300475768 /* FlagsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EE736132BA6F9F300475768 /* FlagsViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		2EE736072BA6F7BD00475768 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2EE736092BA6F7BE00475768 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2EE7360C2BA6F7BE00475768 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2EE736132BA6F9F300475768 /* FlagsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlagsViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				2EE736052BA6F7BD00475768 /* FlagsApp.swift */,
 				2EE736072BA6F7BD00475768 /* ContentView.swift */,
+				2EE736132BA6F9F300475768 /* FlagsViewModel.swift */,
 				2EE736092BA6F7BE00475768 /* Assets.xcassets */,
 				2EE7360B2BA6F7BE00475768 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2EE736082BA6F7BD00475768 /* ContentView.swift in Sources */,
+				2EE736142BA6F9F300475768 /* FlagsViewModel.swift in Sources */,
 				2EE736062BA6F7BD00475768 /* FlagsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
